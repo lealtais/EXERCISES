@@ -7,7 +7,9 @@ Aplicar a metodologia ágil **Scrum** no planejamento e execução de uma aula, 
 - Início: 09/09/2025  
 - Término: 16/09/2025  
 - Esforço comprometido: 19 horas  
-- Buffer: 5 horas para ajustes  
+- Buffer: 5 horas para ajustes
+- Alunos: 25
+- Turma: SI - 4° CICLO | SALA 3.5      
 
 ## Papéis Definidos
 - **Wellington**: Professor responsável pela pesquisa de conteúdo teórico e desenvolvimento de materiais de apoio.  
@@ -21,8 +23,8 @@ O **Product Backlog** foi estruturado em quatro etapas principais:
 3. **Desenvolvimento de Conteúdo**: Criação de materiais de apoio e confecção de exercícios.  
 4. **Finalização e Execução**: Revisão do conteúdo final, ajustes finais e aplicação da aula.  
 
-## Sprint Backlog
-O **Sprint Backlog** detalhou as tarefas específicas para cada dia da sprint:
+## Sprint
+O **Sprint** detalhou as tarefas específicas para cada dia da sprint:
 
 - **09/09**: Definição de responsabilidades e objetivos.  
 - **10/09**: Pesquisa de material e estudo de dinâmicas.  
