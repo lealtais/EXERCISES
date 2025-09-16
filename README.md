@@ -33,7 +33,7 @@ O **Sprint** detalhou as tarefas específicas para cada dia da sprint:
 - **13/09**: Seleção dos melhores exercícios e início do desenvolvimento de materiais.  
 - **14/09**: Finalização e reunião de alinhamento.  
 - **15/09**: Ajustes finais nos materiais.  
-- **16/09**: Execução da aula com ajustes pontuais.  
+- **16/09**: Execução da aula com ajustes pontuais. + Avaliação com feedback entre membros   
 
 ## Reuniões Diárias (Daily Scrum)
 Foram realizadas duas reuniões de 14 minutos para:
