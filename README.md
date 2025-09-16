@@ -47,6 +47,8 @@ Foram realizadas duas reuniões de 14 minutos para:
 
 > - **Google Apresentçãoes**: [Acesse os slides aqui](https://docs.google.com/presentation/d/12i2jWG2cgo4F4yCoN4jM8AEPFv1BRirpWsOyG7g3hzY/edit?usp=sharing)
 
+> - **Exercicios**: [Acesse a atividade aqui](https://exercises-xi.vercel.app/ )
+
 ## Conclusão
 A aplicação do Scrum permitiu:
 - Organização eficiente das tarefas.  
