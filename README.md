@@ -45,6 +45,8 @@ Foram realizadas duas reuniões de 14 minutos para:
 
 > - **Scrum Backlog**: [Acesse a planilha aqui](https://docs.google.com/spreadsheets/d/1cppQxGVd3rfXS74fLWKI63mDXyGQcjTRrf7Tk_g6LLA/edit?usp=sharing)
 
+> - **Google Apresentçãoes**: [Acesse os slides aqui](https://docs.google.com/presentation/d/12i2jWG2cgo4F4yCoN4jM8AEPFv1BRirpWsOyG7g3hzY/edit?usp=sharing)
+
 ## Conclusão
 A aplicação do Scrum permitiu:
 - Organização eficiente das tarefas.  
